@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="TDEPOO">
+    <output-path>$PROJECT_DIR$/out/artifacts/TDEPOO</output-path>
+    <root id="root">
+      <element id="module-output" name="TDEPOO" />
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
